@@ -1,0 +1,2 @@
+这是今天要做的工作。
+git add readme.txt
